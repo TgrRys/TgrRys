@@ -19,8 +19,8 @@ Hi there, I'm a Tegar student in Politeknik Harapan Bersama and it was learning 
 
 #### You can also find me
 
-<a href="https://instagram.com/tgr_rys"><img align="left" width="50" height="50" src="assets/twit.png?raw=true"></a>
-<a href="https://www.facebook.com/TegarSantoso"><img align="left" width="50" height="50" src="assets/ig.png?raw=true"></a>
+<a href="https://instagram.com/tgr_rys"><img align="left" width="50" height="50" src="assets/ig.png?raw=true"></a>
+<a href="https://www.facebook.com/TegarSantoso"><img align="left" width="50" height="50" src="assets/fb.png?raw=true"></a>
 <a href="https://www.linkedin.com/mwlite/in/tegar-rys-640838246"><img align="left" width="50" height="50" src="assets/linkedin.png?raw=true"></a>
 
 
