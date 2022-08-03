@@ -1,20 +1,11 @@
-<h1 align="center">
- Hi! 👋
-<b>I'm Tegar, a 19 years old.</b>
-</h1>
+# Tegar risqy yulian santoso - @tgr_rys
 
 <p align="center">
 <img  alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
 
-## Skills
-- 👨‍💻 JavaScript, PHP
-- ⚙️ React
-- 👁️ CSS
-- 💽 MySQL, SQL
-
-## My Statistics
+Hi there, I'm a Tegar student in Politeknik Harapan Bersama and it was learning web dev sometimes 
 
 <br/>
 <p align="left">
@@ -25,4 +16,11 @@
 </p>
 <br>
 
-[![Tegar' Activity Graph](https://activity-graph.herokuapp.com/graph?username=TegarRizky123&custom_title=Tegar%20Rizky%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://TegarRizky123.dev)
+
+#### You can also find me
+
+<a href="https://instagram.com/tgr_rys"><img align="left" width="50" height="50" src="assets/twit.png?raw=true"></a>
+<a href="https://www.facebook.com/TegarSantoso"><img align="left" width="50" height="50" src="assets/ig.png?raw=true"></a>
+<a href="https://www.linkedin.com/mwlite/in/tegar-rys-640838246"><img align="left" width="50" height="50" src="assets/linkedin.png?raw=true"></a>
+
+
