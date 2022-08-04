@@ -7,9 +7,10 @@
 
 Hi there, I'm Tegar student in Politeknik Harapan Bersama and it was learning web dev sometimes 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TegarRizky123&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TegarRizky123&layout=compact&theme=radical&width="100")](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="http://github.com/TegarRizky123">
+<img width="300" src="https://github-readme-stats.vercel.app/api?username=TegarRizky123&show_icons=true&theme=radical">
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TegarRizky123&layout=compact&theme=radical">
+</a>
 
 ## You can also find me
 
