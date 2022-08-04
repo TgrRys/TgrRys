@@ -9,6 +9,9 @@ Hi there, I'm Tegar student in Politeknik Harapan Bersama and it was learning we
 
 <a href="http://github.com/TegarRizky123">
 <img width="300" src="https://github-readme-stats.vercel.app/api?username=TegarRizky123&show_icons=true&theme=radical">
+</a>
+
+<a href="http://github.com/TegarRizky123">
 <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TegarRizky123&layout=compact&theme=radical">
 </a>
 
