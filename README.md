@@ -9,10 +9,7 @@ Hi there, I'm a Tegar student in Politeknik Harapan Bersama and it was learning 
 
 <br/>
 <p align="left">
-  <a href="https://TegarRizky123/">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=TegarRizky123&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=TegarRizky123&theme=gruvbox&hide_border=true" />
-  </a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TegarRizky123&show_icons=true&theme=radical)
 </p>
 <br>
 
