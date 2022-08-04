@@ -5,13 +5,10 @@
 </p>
 
 
-Hi there, I'm a Tegar student in Politeknik Harapan Bersama and it was learning web dev sometimes 
+Hi there, I'm Tegar student in Politeknik Harapan Bersama and it was learning web dev sometimes 
 
-<br/>
-<p align="left">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TegarRizky123&show_icons=true&theme=radical)
-</p>
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TegarRizky123&layout=compact&theme=radical&width="100")](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### You can also find me
@@ -21,3 +18,8 @@ Hi there, I'm a Tegar student in Politeknik Harapan Bersama and it was learning 
 <a href="https://www.linkedin.com/mwlite/in/tegar-rys-640838246"><img align="left" width="50" height="50" src="assets/linkedin.png?raw=true"></a>
 
 
+## thanks for coming
+<p align="center">
+<a href="http://github.com/TegarRizky123">
+<img align="center"src="https://komarev.com/ghpvc/?username=TegarRizky123-github-username&color=ff0099"</a>
+</p>
