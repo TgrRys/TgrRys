@@ -6,11 +6,11 @@
 Hi there, I'm Tegar student in Politeknik Harapan Bersama and it was learning web dev sometimes 
 
 <a href="http://github.com/TgrRys">
-<img width="300" src="https://github-readme-stats.vercel.app/api?username=TegarRizky123&show_icons=true&theme=radical">
+<img width="300" src="https://github-readme-stats.vercel.app/api?username=TgrRys&show_icons=true&theme=radical">
 </a>
 
 <a href="http://github.com/TgrRys">
-<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TegarRizky123&layout=compact&theme=radical">
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TgrRys&layout=compact&theme=radical">
 </a>
 
 ## You can also find me
