@@ -40,7 +40,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 <br><br><br><br><br>
 
-<div style="display: flex; width: 100%; flex-wrap:wrap; gap:1rem; align-items:center;">
+<div style="display: flex; width: 100%; flex-wrap:wrap; gap:2rem; align-items:center;">
     <img width="300" src="https://github-readme-stats.vercel.app/api?username=TgrRys&show_icons=true&theme=radical">
     <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TgrRys&layout=compact&theme=radical">
 </div>
