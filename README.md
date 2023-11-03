@@ -49,3 +49,6 @@
     <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TgrRys&layout=compact&theme=radical">
 </div>
 
+<p align="center">
+<img align="center"src="https://komarev.com/ghpvc/?username=TgrRys-github-username&color=ff0099"</a>
+</p>
