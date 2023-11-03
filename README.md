@@ -46,7 +46,7 @@
 <h2 style="font-family: 'Poppins', sans-serif;font-weight:400;letter-spacing:1.2px;">Github Stats :</h2>
 <div >
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TgrRys\&show_icons=true\&show=reviews\theme=radical,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-    <img width="300" src="https://github-readme-stats.vercel.app/api?username=TgrRys\&show_icons=true\&show=reviews\&theme=radical,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+    <img width="300" src="https://github-readme-stats.vercel.app/api?username=TgrRys&show_icons=true&show=reviews&theme=radical,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
     <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TgrRys&layout=pie&theme=radical">
 </div>
 
