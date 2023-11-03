@@ -44,7 +44,7 @@
 <br><br><br><br><br>
 
 <h2 style="font-family: 'Poppins', sans-serif;font-weight:400;letter-spacing:1.2px;">Github Stats :</h2>
-<div style="display:flex;" >
+<div >
     <img width="300" src="https://github-readme-stats.vercel.app/api?username=TgrRys&show_icons=true&theme=radical">
     <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TgrRys&layout=compact&theme=radical">
 </div>
