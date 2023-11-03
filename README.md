@@ -40,6 +40,8 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 <br><br><br><br><br>
 
+<h2 style="font-family: 'Poppins', sans-serif;font-weight:400;letter-spacing:1.2px;">Github Stats :</h2>
+
 <div style="display: flex; width: 100%; flex-wrap:wrap; gap:2rem; align-items:center;">
     <img width="300" src="https://github-readme-stats.vercel.app/api?username=TgrRys&show_icons=true&theme=radical">
     <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TgrRys&layout=compact&theme=radical">
