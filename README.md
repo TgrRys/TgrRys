@@ -45,8 +45,8 @@
 
 <h2 style="font-family: 'Poppins', sans-serif;font-weight:400;letter-spacing:1.2px;">Github Stats :</h2>
 <div >
-    <img width="300" src="https://github-readme-stats.vercel.app/api?username=TgrRys&show_icons=true&theme=tokyonight">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TgrRys&layout=pie&theme=radical">
+    <img width="300" src="https://github-readme-stats.vercel.app/api?username=TgrRys&show_icons=true&theme=gruvbox">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TgrRys&layout=pie&theme=gruvbox">
 </div>
 
 <p align="center">
