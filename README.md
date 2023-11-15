@@ -46,12 +46,20 @@
 <div style="display:flex;">
 <h2 style="font-family: 'Poppins', sans-serif;font-weight:400;letter-spacing:1.2px;">Github Stats :</h2>
 <div >
-    <img src="https://github-readme-stats.vercel.app/api?username=TgrRys&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+    <a href="https://github.com/TgrRys">
+<img alt="TgrRys Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TgrRys&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+</a>
+
+<a href="https://github.com/TgrRys">
+<img alt="TgrRys Github Stats" src="https://github-readme-stats.vercel.app/api?username=TgrRys&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
 </div>
 
 <h2 style="font-family: 'Poppins', sans-serif;font-weight:400;letter-spacing:1.2px;">Languages :</h2>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TgrRys&layout=pie&theme=radical">
+    <a href="https://github.com/TgrRys">
+<img alt="TgrRys Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TgrRys&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
 </div>
 </div>
 
